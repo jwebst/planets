@@ -3,5 +3,8 @@ Venus
 Earth
 Mars
 (asteroids)
+<<<<<<< HEAD
 Jupiter
 Cats!
+=======
+>>>>>>> parent of 718b2e3... just Jupiter
